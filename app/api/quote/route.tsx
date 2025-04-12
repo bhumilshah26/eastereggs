@@ -1,6 +1,6 @@
 import { ImageResponse } from '@vercel/og';
 import { NextRequest } from 'next/server';
-import { quotes } from '../quotes'; 
+import { quotes } from '../../quotes'; 
 
 
 export const runtime = 'edge';
